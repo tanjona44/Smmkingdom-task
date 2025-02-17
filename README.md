@@ -1,2 +1,1 @@
-# Smmkingdom-task
-Bot
+INSTALL
